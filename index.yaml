@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Ctrip Affiliate Network
+  title: Hello
   version: '1.0'
   contact:
     name: Robin Dou
